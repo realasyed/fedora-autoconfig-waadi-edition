@@ -25,10 +25,10 @@ read GAMING
 echo "Do you plan on using any Logitech devices with this machine? (y/n)"
 read LOGITECH
 
-echo "Do you need an offline office suite? (Think Microsoft 365)"
+echo "Do you need an offline office suite? (Think Microsoft 365) (y/n)"
 read OFFICE
 
-echo "Do you want to install Google Chrome? WARNING: Google Chrome EATS memory. I reccomend using Chromium or Firefox as alternatives."
+echo "Do you want to install Google Chrome? WARNING: Google Chrome EATS memory. I reccomend using Chromium or Firefox as alternatives. (y/n)"
 read CRINGE
 
 echo "Thank you for using Fedora Autoconfig: Waadi Edition! Configuration will begin now..."
